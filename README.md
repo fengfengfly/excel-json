@@ -1,10 +1,10 @@
-# <center>excel-json</center>
-####profile:
+# excel-json
+#### profile:
 主要功能:
 解析excel文件为json格式文件, 转换 json文件为excel文件.
 Parse excel file to json file, convert json file to excel file.
 >依赖的node框架:[node-xlsx](https://github.com/mgcrea/node-xlsx)
-####run:
+#### run:
 1. 首先`yarn install` 安装依赖.
 2. cd 到 src 目录下:
 3. excel转json:
