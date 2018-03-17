@@ -1,0 +1,11 @@
+{
+  "name": "excel-json",
+  "version": "1.0.0",
+  "description": "excel to json and json to excel,support xlsx files,use node-xlsx",
+  "main": "index.js",
+  "author": "feng",
+  "license": "MIT",
+  "dependencies": {
+    "node-xlsx": "^0.11.2"
+  }
+}
